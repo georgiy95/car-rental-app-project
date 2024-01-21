@@ -3,7 +3,6 @@ import {
   ButtonLink,
   ContentWrap,
   Section,
-  SubTitle,
   Title,
 } from "./HomePage-styled";
 

@@ -3,7 +3,6 @@ import {
   NavLinkStyled,
   NavList,
   NavWrap,
-  Logo,
   Header,
 } from "./AppBar-styled";
 
